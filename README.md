@@ -1,10 +1,27 @@
-# ALR
+ALR
+===
 
 This is the code for Accelerated Higher Order Logistic Regression.
 
-For more details -- Refer to:
-ALRn: accelerated higher-order logistic regression
-Zaidi, N.A., Webb, G.I., Carman, M.J. et al. Mach Learn (2016). doi:10.1007/s10994-016-5574-8
+# Underlying research and scientific papers
+
+This code is supporting the following research paper: 
+
+$ALR^n$: accelerated higher-order logistic regression, Zaidi, N.A., Webb, G.I., Carman, M.J., Petitjean, F. and Cerquides, J. Machine Learning (2016). doi:10.1007/s10994-016-5574-8. 
+
+When using this repository, please cite:
+```
+@article{Zaidi2016,
+  title={ALRn: accelerated higher-order logistic regression},
+  author={Zaidi, Nayyar A and Webb, Geoffrey I and Carman, Mark J and Petitjean, Fran{\c{c}}ois and Cerquides, Jes{\'u}s},
+  journal={Machine Learning},
+  volume={104},
+  number={2-3},
+  pages={151--194},
+  year={2016},
+  publisher={Springer}
+}
+```
 
 An Example command line of the code:
 
